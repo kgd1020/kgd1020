@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=kgd%201020&fontSize=90)
+
+![header](https://capsule-render.vercel.app/api?type=slice)
+
 :envelope: <kennedyduarte33@gmail.com>    
 ==
 
@@ -7,6 +9,10 @@
 
 #### É muito bom ver você aqui!
 #     
+#### Faço Parte do squad 3 - manhã
+#### Estou finalizando nesta 6ª-feira, dia 24/03, o sprint 1. Estou muito satisfeito com o aprendizado proporcionado pelos cursos de Git e GitHub e de Linux. Além disso, também estou bastante feliz com o squad de que faço parte, pois somos unidos e cooperativos, e assim nossa caminhada se torna mais fácil e produtiva.
+#### Já conhecia um pouco de Git e GitHub e um pouquinho de Linux, mas agora posso dizer que conheço um pouco mais, entretanto o aprendizado deve ser sempre contínuo e, já antevejo, que aprenderei muito mais nesse programa de estágio.
+#### Agradeço a COMPASS UOL e a todos os seus colaboradores, em especial aos monitores que temos contato direto. :pray:
 
 ###### A meu respeito
 
@@ -21,6 +27,27 @@
 - Cursando Certificado Profissional de Análise de Dados - GOOGLE / COURSERA
 
 - Estagiário na empresa COMPASS UOL
+
+
+#    
+
+###### Minha experiência com tecnologia:
+#### Como tenho 56 anos, possuo alguma experiência com tecnologia. Cursei Processamento de Dados e aprendi as linguagens Basic, Cobol e Fortran, que na época eram as mais importantes do mercado. 
+#### Logo após esta formação fui admitido no Banco Bradesco e, após um período inicial como escriturário, fui transferido para o setor de informática do banco, onde fazíamos as instalações de softwares bancários nas agências e de softwares de automação bancária em empresas clientes do banco. Além das instalações também dávamos suporte, tanto presencial quanto por telefone. Trabalhei no Bradesco por 19 anos, quando tive que sair porque meu setor foi transferido para a matriz em São Paulo. Ganhei muita experiência nesse longo tempo e tenho saudades daquela época.
+
+#### Gosto de tecnologia e tenho por hobby fazer alguns sites (todos estáticos), onde me divirto e aprendo. Deixo aqui abaixo alguns links para esses sites:
+
+<https://kgd1020.github.io/copia-netflix/>
+
+<https://kgd1020.github.io/bootstrap-aula/>
+
+<https://kgd1020.github.io/teste-bemzen/>
+
+
+#### Também gosto de Python e tenho feito alguns cursos sobre essa linguagem.
+#### Outro interesse que tenho é por computação em nuvem e já fiz alguns cursos na plataforma da Amazon, sendo o principal deles o AWS Cloud Practitioner Essentials. Enfim, tecnologias...
+
+
 
 #     
 ###### Tecnologias que estudo atualmente:
