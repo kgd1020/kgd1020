@@ -37,6 +37,19 @@
 ![icons8-google-sheets-48](https://user-images.githubusercontent.com/44949388/226695877-5d46c221-a5cf-464f-a606-65ce4b7923ac.png)
 ![icons8-tableau-software-48](https://user-images.githubusercontent.com/44949388/226726662-f357e903-8368-4f1a-ae12-de0c33b6c088.png)
 
+
+#### Gosto de tecnologia e tenho por hobby fazer alguns sites (todos estáticos), onde me divirto e aprendo. Deixo aqui abaixo alguns links para esses sites:
+
+<https://kgd1020.github.io/copia-netflix/>
+
+<https://kgd1020.github.io/bootstrap-aula/>
+
+<https://kgd1020.github.io/teste-bemzen/>
+
+
+#### Também gosto de Python e tenho feito alguns cursos sobre essa linguagem.
+#### Outro interesse que tenho é por computação em nuvem e já fiz alguns cursos na plataforma da Amazon, sendo o principal deles o AWS Cloud Practitioner Essentials. Enfim, tecnologias...
+
 #     
 ##### _Obrigado por sua visita!_
 #     
